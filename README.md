@@ -1,2 +1,2 @@
 # Spring-Boot-Using-Multithreading
-This project describes the importance of Spring boot in multithreading
+This project describes the importance of Multithreading in Spring Boot
